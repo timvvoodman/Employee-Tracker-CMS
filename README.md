@@ -3,7 +3,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Size](https://img.shields.io/github/repo-size/timvvoodman/Employee-Tracker-CMS)
+[![Size](https://img.shields.io/github/repo-size/timvvoodman/Employee-Tracker-CMSgit)
 [![Language](https://img.shields.io/github/languages/top/timvvoodman/Employee-Tracker-CMS)
 
 
@@ -26,9 +26,11 @@ Command line application that allows the user to view, add, delete, and edit an 
 
 ## Installation
 1. Install npm packages
-```npm i inquirer  
-   npm i mysql  
-   npm i console.table```  
+
+```npm i inquirer
+   npm i mysql
+   npm i console.table```
+
 2. Create MySQL database using the schema provided in the db folder
 3. Use the seed.sql file to populate the database or provide new data
 4. update app.js file with your username and password
