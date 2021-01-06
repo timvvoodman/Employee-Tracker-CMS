@@ -7,7 +7,7 @@
 
 ## Screenshot / GIF of the application (Demo)
 
-![Demo Screenshot / GIF](Link)
+![Demo Video Link](https://www.youtube.com/watch?v=6ko0C-hzjbY&feature=youtu.be)
 
 ## Application Description
 
