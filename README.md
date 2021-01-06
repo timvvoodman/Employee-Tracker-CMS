@@ -19,7 +19,7 @@ Command line application that allows the user to view, add, delete, and edit an 
 
 ## Demo
 
-![View Appliction Demo on Youtube](https://www.youtube.com/watch?v=6ko0C-hzjbY&feature=youtu.be)
+[View Application Demo on Youtube](https://www.youtube.com/watch?v=6ko0C-hzjbY&feature=youtu.be)
 
 ## Installation
 
